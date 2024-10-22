@@ -33,4 +33,4 @@ This is a fun and interactive Christmas present hunt script for **FiveM**, built
 Feel free to submit any pull requests or issues to help improve this script!
 
 ### 📜 License
-This project is licensed under the GUT 3.0 License.
+This project is licensed under the GPL 3.0 License.
